@@ -33,10 +33,10 @@
                     ID: getCookie("ID"),
                     Score: 800,
                     Time: currentDate.toDateString()
-                }),
-                headers: {
-                    "Content-type": "application/json; charset=UTF-8"
-                }
+                })
+                // headers: {
+                //     "Content-type": "application/json; charset=UTF-8"
+                // }
                 })
                 .then((response) => response.json())
                 .then((json) => console.log(json));
