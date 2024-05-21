@@ -249,7 +249,7 @@ function renderToWebsite1(data){
                                     + "<td class=\"table-data-form-real-estate-CongVu\" style=\"text-align:center;\">"
                                     + "<a href=\"#info" + String(count+1) + "\" onclick=\"goToLink("
                                     + "\'"
-                                    + String(data[count]['linktodo'])
+                                    + String(data[count]['linktodo1'])
                                     + "\'"
                                     + ",\'"
                                     + String(data[count]['id'])
@@ -295,7 +295,7 @@ function renderToWebsite2(data){
                                     + "<td class=\"table-data-form-real-estate-CongVu\" style=\"text-align:center;\">"
                                     + "<a href=\"#info" + String(count+1) + "\" onclick=\"goToLink("
                                     + "\'"
-                                    + String(data[count]['linktodo'])
+                                    + String(data[count]['linktodo1'])
                                     + "\'"
                                     + ",\'"
                                     + String(data[count]['id'])
