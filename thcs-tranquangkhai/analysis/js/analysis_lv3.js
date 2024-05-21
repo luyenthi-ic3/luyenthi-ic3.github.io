@@ -1,6 +1,6 @@
 let sheetID = '10RZdEI0JkE4gkzLcwU6suPPni1UB1kM4piTwYj9PUf8';
 let base = `https://docs.google.com/spreadsheets/d/${sheetID}/gviz/tq?`;
-let linkBackToLogInPage = "https://thcs-tranquangkhai.ic3gs6.com/analysis";
+let linkBackToLogInPage = "https://luyenthi-ic3.github.io/thcs-tranquangkhai/analysis";
 let data1 = [];
 let listUnitLT = [];
 let listUnitTT = [];

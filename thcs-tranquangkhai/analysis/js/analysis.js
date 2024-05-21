@@ -53,9 +53,9 @@ let uFullName = "";
 let checkRow = false;
 let numberPhone = "0703.895.605";
 //Up
-let linkCongCuLuyenThiLevel1 = "https://thcs-tranquangkhai.ic3gs6.com/analysis/IC3GS6LEVEL1.html";
-let linkCongCuLuyenThiLevel2 = "https://thcs-tranquangkhai.ic3gs6.com/analysis/IC3GS6LEVEL2.html";
-let linkCongCuLuyenThiLevel3 = "https://thcs-tranquangkhai.ic3gs6.com/analysis/IC3GS6LEVEL3.html";
+let linkCongCuLuyenThiLevel1 = "https://luyenthi-ic3.github.io/thcs-tranquangkhai/analysis/IC3GS6LEVEL1.html";
+let linkCongCuLuyenThiLevel2 = "https://luyenthi-ic3.github.io/thcs-tranquangkhai/analysis/IC3GS6LEVEL2.html";
+let linkCongCuLuyenThiLevel3 = "https://luyenthi-ic3.github.io/thcs-tranquangkhai/analysis/IC3GS6LEVEL3.html";
 
 function submit(){   
     data = [];
